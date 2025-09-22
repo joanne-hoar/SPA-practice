@@ -2,6 +2,14 @@
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.3.2.
 
+## The project
+
+Single Page Application demonstration with Angular (TypeScript)
+
+## Author
+
+Joanne, T0511 FrontEnd Frameworks
+
 ## Development server
 
 To start a local development server, run:
