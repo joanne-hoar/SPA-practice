@@ -2,6 +2,8 @@
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.3.2.
 
+To view the same project in Angular 19, see [this repo](https://github.com/joanne-hoar/practice).
+
 ## The project
 
 Single Page Application demonstration with Angular (TypeScript)
